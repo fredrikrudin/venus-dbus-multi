@@ -1,3 +1,3 @@
 #!/bin/sh
 exec 2>&1
-exec /data/apps/victron-dbus-multidevice/victron-dbus-multidevice.py
+exec /data/apps/venus-dbus-multi/victron-dbus-multidevice.py
