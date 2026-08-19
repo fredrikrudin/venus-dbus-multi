@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-APP_DIR="/data/apps/victron-dbus-multidevice"
-SERVICE_DIR="/service/victron-dbus-multidevice"
+APP_DIR="/data/apps/venus-dbus-multi"
+SERVICE_DIR="/service/venus-dbus-multi"
 
 echo "=== Starting installation of victron-dbus-multidevice ==="
 
